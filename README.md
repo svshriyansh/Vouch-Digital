@@ -1,6 +1,6 @@
 # Vouch DIGITAL Backend Assignment 
 
-## _REST API are implemented to manage database calls Express (Nodejs) & MongoDB_
+## _REST API are implemented to manage adressbook database calls using Express (Nodejs) & MongoDB_
 
 ## Functionality
 - Signup
@@ -16,14 +16,13 @@
 
 ## Features
 
-- User will be able to signup  by providing the details
+- User will be able to signup by providing the details
 - After successful signup users will be able to login with their username and password
-- User should be able to add new contact details in bulk and one by one.
+- User will be able to add new addressbook details in bulk format or one by one.
 - User can also see existing user address details.
+- User can delete existing user address details.
 
 ## Tech
-
-This project uses a number of open source projects to work properly some of them are:
 
 - [Node.js](https://nodejs.org/en/) - evented I/O for the backend.
 - [Mongoose](https://mongoosejs.com) - Mongoose provides a straight-forward, schema-based solution.
