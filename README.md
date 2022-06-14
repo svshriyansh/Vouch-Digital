@@ -10,7 +10,7 @@
 - Add addressbook details one by one
 - Update existing contact
 - Fetch details of single user.
-- Fetch the list of contacts with pagination
+- Fetch the addressbook detail list of with pagination
 - Delete the given contact.
 
 
