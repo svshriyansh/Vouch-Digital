@@ -5,10 +5,11 @@
 ## Functionality
 - Signup
 - Login
-- Add New contact
-- Add contact details in bulk
+- Add New addressbook detail
+- Add addressbook details in bulk
+- Add addressbook details one by one
 - Update existing contact
-- Fetch details of single contact.
+- Fetch details of single user.
 - Fetch the list of contacts with pagination
 - Delete the given contact.
 
